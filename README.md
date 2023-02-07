@@ -10,5 +10,6 @@
 
  - 👋Hi, I'm Joaquin Villanueva, a full-stack developer with a passion for backend development and videogames.
  - 👀I keep my skills up-to-date by learning new technologies like AWS and Deep Learning.
+ - 💻I have experience with programming languages such as Node.Js, .NET, Entity Framework, and MySQL.
  - 🌱As a lifelong learner, I'm constantly seeking new challenges and opportunities to improve my abilities.
- - 📫Feel free to reach out to me at joaquinvillanuevafarber@gmail.com
+ - 📫Feel free to reach out to me at joaquinvillanuevafarber@gmail.com.
